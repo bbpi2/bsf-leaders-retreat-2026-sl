@@ -5,7 +5,7 @@ import starlight from '@astrojs/starlight';
 // https://astro.build/config
 export default defineConfig({
 	site: "https://bbpi2.github.io",
-	base: "/starlight-experimental",
+	base: "/bsf-leaders-retreat-2026-sl",
 	integrations: [
 		starlight({
 			title: 'My Docs',
